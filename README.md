@@ -18,5 +18,5 @@ Objetivo: me tornar **desenvolvedor Full Stack** e alcançar fluência em inglê
 <div>
   <a href="mailto:pedronicolasban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://www.coursera.org/user/09be8c6077223c4ed040a7fee22a21ec"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/pedronicolazz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/pedronicolaszz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
