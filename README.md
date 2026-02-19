@@ -1,4 +1,4 @@
-## Oiii eu sou o Pedro Nicolas, tenho 15 anos. 👨🏻‍💻
+## Olá, eu sou o Pedro Nicolas, tenho 15 anos. 👨🏻‍💻
 
 Estudante de tecnologia do Instituto J&F, focado em **Java** e **Python**.  
 Objetivo: me tornar **desenvolvedor Full Stack** e alcançar fluência em inglês (**TOEFL**).
