@@ -1,7 +1,6 @@
 ## Olá, eu sou o Pedro Nicolas, tenho 15 anos. 👨🏻‍💻
 
-Estudante de tecnologia do Instituto J&F, focado em **Java** e **Python**.  
-Objetivo: me tornar **desenvolvedor Full Stack** e alcançar fluência em inglês (**TOEFL**).
+Estudante de tecnologia do Instituto J&F.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
